@@ -1,0 +1,17 @@
+{
+    "name": "sniglet-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Multiple Designers"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/sniglet-bower.git"
+    },
+    "description": "Sniglet font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
